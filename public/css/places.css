@@ -1,0 +1,25 @@
+.image-content{
+    height: 25rem !important;
+    object-fit: cover;
+}
+
+.limited-content{
+    width: 48% !important;
+    margin: 1%;
+}
+
+.margin-1-percent{
+    margin: 1%;
+}
+
+.text-color-reset{
+    color: unset;
+}
+
+.w-80{
+    width: 80%!important;
+}
+
+.w-90{
+    width: 90% !important;
+}

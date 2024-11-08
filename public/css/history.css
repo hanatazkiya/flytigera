@@ -1,0 +1,64 @@
+.bg-red-to-whitesmoke{
+    background-color: red !important;
+    transition-duration: .3s;
+    outline: rgba(43, 43, 43, .3) solid 1px;
+    color: white !important;
+}
+
+.bg-red-to-whitesmoke:hover{
+    background-color: whitesmoke !important;
+    transition-duration: .3s;
+    color: rgba(43, 43, 43, .7) !important; 
+}
+
+.bg-whitesmoke-to-red:hover{
+    background-color: red !important;
+    transition-duration: .3s;
+    color: white !important;
+}
+
+.bg-whitesmoke-to-red{
+    background-color: whitesmoke !important;
+    transition-duration: .3s;
+    color: rgba(43, 43, 43, .7) !important; 
+}
+
+
+.bg-orange-to-whitesmoke{
+    background-color: orange !important;
+    transition-duration: .3s;
+    outline: rgba(43, 43, 43, .3) solid 1px;
+    color: white !important;
+}
+
+.bg-orange-to-whitesmoke:hover{
+    background-color: whitesmoke !important;
+    transition-duration: .3s;
+    color: rgba(43, 43, 43, .7) !important; 
+}
+
+.bg-dark-cyan-to-whitesmoke{
+    background-color: #008B8B !important;
+    transition-duration: .3s;
+    outline: rgba(43, 43, 43, .3) solid 1px;
+    color: white !important;
+}
+
+.bg-dark-cyan-to-whitesmoke:hover{
+    background-color: whitesmoke !important;
+    transition-duration: .3s;
+    color: rgba(43, 43, 43, .7) !important; 
+}
+
+.color-unset{
+    color: unset !important;
+}
+
+.limited-content{
+    width: 48% !important;
+    margin: 1% !important;
+}
+
+.text-whitesmoke{
+    color: whitesmoke;
+}

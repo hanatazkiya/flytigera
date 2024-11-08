@@ -1,0 +1,18 @@
+.header-image{
+    background-image: url('/images/index_image.jpeg');
+    background-attachment: fixed;
+    display: flex;
+    width: 100%;
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center;
+}
+
+.container-image{
+    width: 100vw;
+}
+
+.header-middle-content {
+    width: 45% !important;
+}
